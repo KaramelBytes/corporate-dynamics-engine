@@ -1,5 +1,13 @@
 # 🏢 Corporate Dynamics Simulation Engine
 
+> **⚠️ PROJECT ARCHIVED & FROZEN (April 2026) ⚠️**
+>
+> This project was developed in mid-2025 to showcase a robust, text-based interactive corporate simulator with custom AI orchestration. Due to the rapid evolution of the AI/LLM space—specifically the commoditization of API orchestration (e.g., LiteLLM, Portkey) and the paradigm shift toward autonomous multi-agent frameworks (e.g., LangGraph, PydanticAI, CrewAI)—the custom infrastructure built here has been deprecated in favor of modern standards.
+>
+> Development is officially **frozen** and this repository is **archived**. The codebase is preserved "as-is" for historical and educational reference, demonstrating enterprise-grade software engineering patterns applied to LLM architectures of its era. No further updates will be made, and new issues or pull requests will not be addressed.
+
+---
+
 > **AI-augmented development** of an enterprise-grade corporate adventure game with sophisticated stakeholder relationship modeling, multi-provider AI integration, and real-time cost optimization.
 
 ## 🤖 AI Development Team
